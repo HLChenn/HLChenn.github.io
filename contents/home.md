@@ -1,17 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![HLChenn](https://img.shields.io/badge/HLChenn-github-blue?logo=github)](https://github.com/HLChenn)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a junior undergraduate student majoring in Information Security at the School of Computer Science and Engineering, South China University of Technology.
 
 #### Contact
-
-Email: senli[at]fas.harvard.edu
+Email: 1104296861@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Information Security, School of Computer Science and Engineering, South China University of Technology, 2023—Present.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Swarm Intelligence.
 
